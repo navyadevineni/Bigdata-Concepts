@@ -109,7 +109,7 @@ Finally, verify. Open File Explorer, go to "My Documents" and right-click to see
 
 [working with data](https://docs.google.com/presentation/d/16XWvAS2Hz5kB_xC5DzWsCZ3S1P4XWQbXPT8xp9Q48VI/edit#slide=id.g630624f902_0_42)
 
-[Hadoop wordcount](https://nwmissouri.instructure.com/courses/36074/assignments/525532_
+[Hadoop wordcount](https://nwmissouri.instructure.com/courses/36074/assignments/525532)
 
 [
 
