@@ -71,6 +71,46 @@ Finally, verify. Open File Explorer, go to "My Documents" and right-click to see
 - See [Windows File Management](https://github.com/denisecase/windows-file-management)
 - See [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 
+## Markdown 
+[Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
 ## See Also
 
 - [Setting Up for Professional Software Development](https://github.com/denisecase/pro-dev-list)
+
+## Course Links
+[BigData 101](https://cognitiveclass.ai/courses/what-is-big-data)
+
+[Redirection](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+
+[Piping](https://superuser.com/questions/277324/pipes-vs-redirects)
+
+[Basic Git](https://github.com/denisecase/basic-git)
+
+
+
+
+## Notes
+[Powershell vs Admin](https://www.itprotoday.com/powershell/differences-between-running-powershell-normal-mode-versus-administrator-mode)
+
+[ASCII](http://daleswanson.org/ascii.htm)
+
+[elegant command to remove HTML](https://stackoverflow.com/questions/35777319/extract-the-source-of-the-webpage-without-tags-using-bash)
+
+[VM](https://drive.google.com/file/d/1uJ3Vg-CNc-DPFxMrjnHSeigvvzrdlZDz/view)
+
+[original Lambda Architecture (LA)](https://www.manning.com/books/big-data)
+
+[LA](http://lambda-architecture.net/)
+
+[cloudstart VM](https://www.simplilearn.com/tutorials/big-data-tutorial/cloudera-quickstart-vm)
+
+[Hadoop o windows](https://github.com/denisecase/basic-hadoop-on-windows)
+
+[working with data](https://docs.google.com/presentation/d/16XWvAS2Hz5kB_xC5DzWsCZ3S1P4XWQbXPT8xp9Q48VI/edit#slide=id.g630624f902_0_42)
+
+[Hadoop wordcount](https://nwmissouri.instructure.com/courses/36074/assignments/525532_
+
+[
+
+
